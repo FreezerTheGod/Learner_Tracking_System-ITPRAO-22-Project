@@ -43,4 +43,4 @@ The terminal dashboard provides an administrator panel equipped with 8 operation
 2. Place your main script inside a folder workspace.
 3. Open a system terminal or shell window inside that directory and run:
    ```bash
-   python name_of_your_file.py
+   python theprojectcode.py
